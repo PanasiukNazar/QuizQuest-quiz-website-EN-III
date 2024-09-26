@@ -6,20 +6,15 @@ const QUESTIONS = [
     {
         label: 'What’s your go-to reason for investing in gold?',
         answers: [
-            'Long-term wealth preservation',
-            'Hedge against inflation',
-            'Portfolio diversification',
-            'Short-term trading opportunity',
+            'Inflation hedge',
+            'Stability',
+            'Diversification',
+            'Safe haven',
         ],
     },
     {
         label: 'How do you usually keep track of gold prices?',
-        answers: [
-            'I check the market daily',
-            'I rely on weekly updates',
-            'I follow major market events',
-            'I don’t monitor it regularly',
-        ],
+        answers: ['Price apps', 'News updates', 'Market websites', 'I don’t'],
     },
     {
         label: 'What’s your preferred way of trading gold?',
